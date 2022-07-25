@@ -25,5 +25,4 @@ public class DiamondB {
 			System.out.println();
 		}
 	}
-
 }
