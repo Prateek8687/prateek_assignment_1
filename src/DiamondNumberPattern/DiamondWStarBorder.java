@@ -27,5 +27,4 @@ public class DiamondWStarBorder {
 			System.out.println();
 		}
 	}
-
 }
