@@ -16,6 +16,5 @@ public class Program13 {
 			amount = amount % arr[i];
 		}
 	}
-
 }
  
