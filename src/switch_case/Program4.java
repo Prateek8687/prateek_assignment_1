@@ -12,7 +12,7 @@ public class Program4 {
 		System.out.print("Enter Second Integer Number: ");
 		int num2 = p4.nextInt();
 		
-		switch (num1 > num2) {
+		switch (num1 = num2) {
 		case 0:
 			System.out.println("The Maximum Number is: " + num1);
 			break;
@@ -22,5 +22,4 @@ public class Program4 {
 			break;
 		}
 	}
-
 }
